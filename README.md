@@ -1,6 +1,6 @@
-# Vendroid
+# Nexoid
 
-Vendroid is a custom Discord client for Android. The way it works is that it loads the discord.com website and injects Vencord.
+Nexoid is a custom Discord client for Android. The way it works is that it loads the discord.com website and injects Nexulien.
 
 | | |
 |:--:|:--:|
@@ -14,4 +14,4 @@ You are likely better off using [Aliucord](https://github.com/Aliucord/Aliucord)
 
 ## Download
 
-Visit the [latest release](https://github.com/Vencord/Vendroid/releases/latest), grab the apk and install it
+Visit the [latest release](https://github.com/Nexulien/Nexoid/releases/latest), grab the apk and install it

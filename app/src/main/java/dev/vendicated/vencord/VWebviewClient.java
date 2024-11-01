@@ -1,4 +1,4 @@
-package dev.vendicated.vencord;
+package dev.nexulien.nexoid;
 
 import android.content.Intent;
 import android.graphics.Bitmap;

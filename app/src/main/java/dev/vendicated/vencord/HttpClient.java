@@ -1,4 +1,4 @@
-package dev.vendicated.vencord;
+package dev.nexulien.nexoid;
 
 import android.app.Activity;
 import android.content.res.Resources;

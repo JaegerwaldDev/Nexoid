@@ -1,4 +1,4 @@
-package dev.vendicated.vencord;
+package dev.nexulien.nexoid;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

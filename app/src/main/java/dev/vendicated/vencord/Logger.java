@@ -1,9 +1,9 @@
-package dev.vendicated.vencord;
+package dev.nexulien.nexoid;
 
 import android.util.Log;
 
 public final class Logger {
-    private static final String TAG = "Vencord";
+    private static final String TAG = "Nexulien";
 
     public static void e(String message) {
         Log.e(TAG, message);
