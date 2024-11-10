@@ -47,7 +47,7 @@ public class MainActivity extends Activity {
         try {
             HttpClient.fetchVencord(this);
         } catch (IOException ex) {
-            Logger.e("Failed to fetch Vencord", ex);
+            Logger.e("Failed to fetch Nexulien", ex);
             return;
         }
 
